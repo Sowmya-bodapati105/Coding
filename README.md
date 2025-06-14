@@ -1,5 +1,5 @@
 # Coding 
-----Titanic Dataset Survival Prediction Using Machine Learning
+----1.Titanic Dataset Survival Prediction Using Machine Learning
 Executed a full machine learning workflow on the Titanic dataset to predict passenger survival. Conducted data cleaning, handled missing values in 'Age' and 'Embarked', and applied label encoding on categorical variables like 'Sex' and 'Embarked'. Performed feature engineering by selecting impactful features such as Pclass, Sex, Fare, and Age. Trained and evaluated a Logistic Regression model, achieving high accuracy using train-test split and performance metrics like accuracy and confusion matrix. Tools used include Python, Pandas, NumPy, Scikit-learn, and Matplotlib.
 
 🔍 Key Steps You Completed:
@@ -15,7 +15,7 @@ Evaluation – Assessed accuracy and visualized confusion matrix.
 
 Tools Used – Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
------Chat-Based Sentiment Analysis Using Machine Learning
+-----2.Chat-Based Sentiment Analysis Using Machine Learning
 Created a sentiment classification system to label chat messages as positive, negative, or neutral. Collected and cleaned a custom dataset, removed stopwords and special characters, and applied TF-IDF vectorization to convert text into numerical features. Trained a Logistic Regression model for multi-class classification. Evaluated model performance using accuracy, precision, and F1-score. Demonstrated practical understanding of NLP preprocessing, model building, and evaluation using Python, Scikit-learn, and Pandas.
 
 🔍 What You Have Done (Broken Down):
